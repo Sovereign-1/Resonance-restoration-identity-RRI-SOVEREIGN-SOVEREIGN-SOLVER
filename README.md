@@ -1,3 +1,28 @@
+sovereign-knight-solver/
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── pyproject.toml
+├── .gitignore
+├── docs/
+│   └── solver_theory.md
+├── examples/
+│   └── example_commands.txt
+├── tests/
+│   ├── test_core.py
+│   └── test_verify.py
+└── sovereign_knight_solver/
+    ├── __init__.py
+    ├── cli.py
+    ├── config.py
+    ├── core.py
+    ├── eisenstein.py
+    ├── factoring.py
+    ├── filters.py
+    ├── search.py
+    ├── storage.py
+    └── targets.py
 # Sovereign Knight Solver
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
